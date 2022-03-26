@@ -17,6 +17,8 @@ Here are some ideas to get you started:
 
 -->
 
+![KakaoTalk_Photo_2022-03-27-07-07-15](https://user-images.githubusercontent.com/79096475/160258579-e6a7f075-7bcc-4b6c-ba87-42483f46362b.gif)
+
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
