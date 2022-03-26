@@ -1,5 +1,5 @@
+:four_leaf_clover: Hi~ Github of 김제희🇰🇷:four_leaf_clover:
 
-![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=김제희%20Github&fontSize=90)
 
 <!--
 **KimJeHee/KimJeHee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
