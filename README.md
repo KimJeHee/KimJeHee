@@ -18,6 +18,5 @@ Here are some ideas to get you started:
 -->
 
 
-![image](https://user-images.githubusercontent.com/79096475/160257733-fb399ea3-006d-4a5f-be71-8af4766804f0.png)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
