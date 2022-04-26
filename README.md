@@ -1,4 +1,4 @@
-:four_leaf_clover: Hi~ Github of 김제희🇰🇷:four_leaf_clover:
+:four_leaf_clover: HELLO WORLD~ Github of KIMJEHEE🇰🇷:four_leaf_clover:
 
 
 <!--
